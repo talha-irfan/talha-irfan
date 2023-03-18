@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-irfan&label=Profile%20views&color=0e75b6&style=flat" alt="talha-irfan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-irfan" alt="talha-irfan" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [www.github.com/talha-irfan](www.github.com/talha-irfan)
